@@ -1,7 +1,7 @@
 # Robot-Path-Planning-using-Robust-MDP
 
-#introduction
+# Introduction
 
-#methodology
+# Methodology
 
-#results and conclusion
+# Results and conclusion

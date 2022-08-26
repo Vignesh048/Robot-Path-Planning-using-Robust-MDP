@@ -1,7 +1,17 @@
 # Robot-Path-Planning-using-Robust-MDP
 
 # Introduction
+  -->Optimal solutions of MDP are sensitive to the state transition probabilities. 
+  
+  -->Estimation of the state transition probabilities are far from accurate in real life situations.
+  
+  -->Which limits the usage of MDP in real life problems
 
+# Motivation
+  -->The aim is to build the robust control strategy for finite state and finite action MDP’s when transition probabilities are uncertain.
+  
+  -->The solution could be obtained using variant of the classical dynamic programming algorithm, the “robust dynamic programming” algorithm.
+  
 # Methodology
 
 # Results and conclusion
